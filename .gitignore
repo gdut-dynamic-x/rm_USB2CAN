@@ -1,0 +1,10 @@
+/USB2CAN-backups/
+/usb2can/
+
+*.zip
+*.pdf
+
+fp-info-cache
+
+*.kicad_prl
+
